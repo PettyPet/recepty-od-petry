@@ -1,0 +1,48 @@
+body {
+    font-size: 16px;
+    font-family:monospace;  
+    line-height:1,5;
+}
+
+h1 {
+    font-size: 60px;
+    color:#1F22DB; 
+   
+}
+
+
+    
+
+h2 {
+    font-style: italic;
+    color:#1F22DB;
+}
+h3 {
+    color:#1F22DB;
+}
+
+li {
+    font-weight: bold;
+}
+
+.fotogalerie,
+.kontakt {
+    background-color: aquamarine;
+}
+
+.pomazanka {
+    background-color: #F5BF82
+}
+.paticka {
+    background-color:#F5BF82 ;
+    text-align: center;
+}
+.hlavicka {
+    text-align: center;
+}
+.o  {
+    text-align: center;
+}
+.fotogalerie img  {
+    width:30%;
+}
